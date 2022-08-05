@@ -1,0 +1,3 @@
+const CHANGE_MOOD="CHANGE_MOOD"
+
+export {CHANGE_MOOD}
